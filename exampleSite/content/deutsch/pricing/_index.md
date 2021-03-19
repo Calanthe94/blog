@@ -16,16 +16,18 @@ basic:
     label: Kostenlos starten
     link: "#"
 professional:
-  name: Professional Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für Professionals
+  name: Bieżące doradztwo podatkowe
+  price: 300 zł
+  price_per: h
+  info: Cena jest kwotą brutto
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Rozliczenie waluty wirtualnej
+  - 'Waluta wirtualna w kontekście:'
+  - PIT
+  - CIT
+  - VAT
+  - PCC
+  - podatku od spadków i darowizn
   button:
     enable: true
     label: Kostenlos starten
