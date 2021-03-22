@@ -34,7 +34,7 @@ professional:
     link: "#"
 business:
   name: Business Plan
-  price: "€49"
+  price: wycena indywiualna
   price_per: Monat
   info: Ideal für Unternehmen
   services:
