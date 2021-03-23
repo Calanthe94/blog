@@ -1,105 +1,69 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Rozwiążemy Twój problem z podatkowym rozliczeniem kryptowaluty
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Zespół doradców podatkowych, prawników i ekonomistów zadba o Twoje bezpieczeństwo podatkowe. Skontaktuj się i uzyskaj pomoc skrojoną dokładnie pod Ciebie.
   button:
     enable: true
-    label: Contact With Us
+    label: Napisz do nas
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Analizujemy transakcje kryptowalutowe pod kątem:
   feature_item:
-  - name: Clean Code
+  - name: 
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Podatku dochodowego od osób fizycznych (PIT)
+  - name: 
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: Podatku dochodowego od osób prawnych (CIT)
+  - name: 
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+    content: Podatku od  towarów i usług (VAT)
+  - name: 
     icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+    content: Podatku od spadku i darowizn
+  - name: 
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+    content: Podatku od czynności cywilnoprawnych
+  - name: 
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Umów o unikaniu podwójnego opodatkowania
+
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Aktualności
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Prowadzimy blog o aktualnościach w zakresie rozliczania kryptowalut, w którym znajdziecie najciekawsze informacje z podatkowego świata kryptowalut. Przedstawiamy tam także najnowsze stanowiska organów podatkowych oraz sądów administracyjnych. 
     button:
       enable: true
-      label: Check it out
+      label: Sprawdź aktualności
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Uzyskaj podatkową interpretację indywidualną
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Z uwagi na brak kompleksowych przepisów w zakresie opodatkowania kryptowalut instytucja indywidualnej interpretacji podatkowej stanowi  doskonałą ochronę interesów podatkowych Klienta. Naszym Klientom zapewniamy przygotowanie takiego wniosku. Jeżeli borykasz się z nietypowym problemem, to pozytywne rozpatrzenie Twojego wniosku da Ci gwarancję bezpieczeństwa i prawidłowości Twojego rozliczenia.
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Dlaczego my?
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Koncentrujemy się na wąskiej specjalizacji dzięki czemu możemy wskazywać naszym Klientom skuteczne i realne do wdrożenia rozwiązania. Cechujemy się indywidualnym podejście do Klienta, tak by spełnić jego oczekiwania. Zapewniamy rzetelność świadczonych usług, innowacyjne spojrzenie oraz dążenie do uzyskania maksymalnej efektywności podejmowanych działań.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-screenshot:
-  enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
-call_to_action:
-  enable: true
-  title: Ready to get started?
+  title: Nawiążmy współpracę!
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Napisz wiadomość z problemem jaki Cię trapi, a my się skontaktujemy najszybciej jak to możliwe.
   button:
     enable: true
-    label: Contact Us
+    label: Skontaktuj się
     link: contact
-title: ";d;dskfgsdkg"
-subtitle: mlskdf
-
 ---
-od borusji w pilke jest gorszy tylko Slawek w szachy
