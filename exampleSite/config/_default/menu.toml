@@ -1,7 +1,7 @@
 
 # main menu
 [[main]]
-name = "Blog"
+name = "Aktualności"
 url = "blog"
 weight = 1
 
