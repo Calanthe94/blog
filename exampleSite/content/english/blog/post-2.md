@@ -14,7 +14,7 @@ Co rozliczyć, gdzie rozliczyć, na jakim formularzu, w jakim terminie?
 
 Każda osoba fizyczna, która w 2020 roku osiągnęła dochód z tytułu transakcji na kryptowalutach zobowiązana jest do zapłaty podatku dochodowego.
 
-Dochód jest to nadwyżka przychodów nad kosztami jego uzyskania. Za przychód uznajemy sprzedaż kryptowaluty za środki pieniężne lub ich wymianę za towar i usługę (nie jest brana pod uwagę wymiana krypto za krypto). Z kolei kosztem jest wydatki poniesione na zakup tych kryptowalut.
+Dochód jest to nadwyżka przychodów nad kosztami jego uzyskania. Za przychód uznajemy sprzedaż kryptowaluty za środki pieniężne lub ich wymianę za towar i usługę (nie jest brana pod uwagę wymiana krypto za krypto). Z kolei kosztem są wydatki poniesione na zakup tych kryptowalut.
 
 Jeżeli przychód jest wyższy niż koszt to mamy dochód i należy zapłacić od tego podatek dochodowy.
 
