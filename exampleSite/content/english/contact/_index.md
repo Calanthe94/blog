@@ -1,7 +1,7 @@
 ---
-title: Contact Us
+title: Skontaktuj się
 subtitle: ''
-description: This is meta description
+description: kontakt
 
 ---
 ### Napisz do nas!

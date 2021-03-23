@@ -6,12 +6,12 @@ url = "blog"
 weight = 1
 
 [[main]]
-name = "Pricing"
+name = "Cennik"
 url = "pricing"
 weight = 2
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact"
 weight = 3
 
@@ -30,13 +30,13 @@ name = "Quick Start"
 url = "#"
 
 [[footer_left]]
-name = "Pricing"
+name = "Cennik"
 url = "pricing"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
+name = "Cennik"
 url = "pricing"
 
 [[footer_middle]]
@@ -49,11 +49,11 @@ url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
+name = "Polityka prywatności"
 url = "privacy-policy"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Zasady użytkowania"
 url = "terms-conditions"
 
 [[footer_right]]
