@@ -9,7 +9,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Analizujemy transakcje kryptowalutowe pod kątem:
+  title: Analizujemy transakcje kryptowalutowe pod kątem
   feature_item:
   - name: 
     icon: ti-pulse
