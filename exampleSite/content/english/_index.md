@@ -11,8 +11,8 @@ feature:
   enable: true
   title: Analizujemy transakcje kryptowalutowe pod kątem
   feature_item:
-  - name: 
-    icon: ti-pulse
+  - name:
+    image: images/paragraf.png
     content: Podatku dochodowego od osób fizycznych (PIT)
   - name: 
     icon: ti-package
@@ -49,7 +49,6 @@ service:
     content: Z uwagi na brak kompleksowych przepisów w zakresie opodatkowania kryptowalut instytucja indywidualnej interpretacji podatkowej stanowi  doskonałą ochronę interesów podatkowych Klienta. Naszym Klientom zapewniamy przygotowanie takiego wniosku. Jeżeli borykasz się z nietypowym problemem, to pozytywne rozpatrzenie Twojego wniosku da Ci gwarancję bezpieczeństwa i prawidłowości Twojego rozliczenia.
     button:
       enable: true
-      label: Check it out
       link: "#"
   - title: Dlaczego my?
     images:
