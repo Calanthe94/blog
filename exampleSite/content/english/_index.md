@@ -12,7 +12,7 @@ feature:
   title: Analizujemy transakcje kryptowalutowe pod kątem
   feature_item:
   - name:
-    image: images/paragraf.png
+    icon: ti-pulse
     content: Podatku dochodowego od osób fizycznych (PIT)
   - name: 
     icon: ti-package
