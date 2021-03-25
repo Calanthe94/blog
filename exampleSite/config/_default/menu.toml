@@ -1,61 +1,19 @@
-
-# main menu
+footer_middle = []
+[[footer_left]]
+name = ""
+url = ""
+[[footer_right]]
+name = "Aktualności"
+url = "https://podatekodkrypto.pl/blog/"
 [[main]]
 name = "Aktualności"
 url = "blog"
 weight = 1
-
 [[main]]
 name = "Cennik"
 url = "pricing"
 weight = 2
-
 [[main]]
 name = "Kontakt"
 url = "contact"
 weight = 3
-
-[[main]]
-name = "FAQ"
-url = "faq"
-weight = 4
-
-# footer menu left
-[[footer_left]]
-name = "About Us"
-url = "#"
-
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Cennik"
-url = "pricing"
-
-
-# footer menu middle
-[[footer_middle]]
-name = "Cennik"
-url = "pricing"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
-
-# footer menu right
-[[footer_right]]
-name = "Polityka prywatności"
-url = "privacy-policy"
-
-[[footer_right]]
-name = "Zasady użytkowania"
-url = "terms-conditions"
-
-[[footer_right]]
-name = "FAQ"
-url = "faq"
