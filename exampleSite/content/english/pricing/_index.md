@@ -18,7 +18,7 @@ professional:
   info: Cena jest kwotą netto
   services:
   - rozliczanie waluty wirtualnej
-  - waluta wirtualna w kontekście:
+  - waluta wirtualna w kontekście
   - -PIT
   - -CIT
   - -VAT
