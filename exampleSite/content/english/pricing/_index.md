@@ -3,18 +3,12 @@ title: Cennik
 subtitle: ''
 description: This is meta description
 basic:
-  name: Basic Plan
-  price: "$49"
-  price_per: month
-  info: Best For Small Individuals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  name: Wstępna ocena
+  price: "Bezpłatna"
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Skontaktuj się
+    link: "contact"
 professional:
   name: Professional Plan
   price: "$49"
