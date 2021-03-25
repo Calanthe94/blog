@@ -4,7 +4,9 @@ subtitle: ''
 description: This is meta description
 basic:
   name: Wstępna ocena
-  price: "Bezpłatna"
+  info: Bezpłatne
+  services:
+  - Opisz w mailu, swój problem podatkowy, a my określimy ile potrzebujemy czasu na jego rozwiązanie. Po akceptacji oferty przystąpimy do działania.
   button:
     enable: true
     label: Skontaktuj się
