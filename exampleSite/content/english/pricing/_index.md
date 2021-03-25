@@ -12,42 +12,30 @@ basic:
     label: Skontaktuj się
     link: "contact"
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Bieżące doradctwo podatkowe
+  price: "200PLN"
+  price_per: godzina
+  info: Cena jest kwotą netto
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - rozliczanie waluty wirtualnej
+  - waluta wirtualna w kontekście:
+  - -PIT
+  - -CIT
+  - -VAT
+  - -PCC
+  - -Podatek od spatków i darowizn
+  - -umów o unikaniu podwójnego opodatkowania
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Skontaktuj się
+    link: "contact"
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Wniosek o interpretacje indywidualną
+  info: Wycena indywidualna
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Pomożemy w sporządzeniu wniosku o wydanie interpretacji indywidualnej w celu jak najlepszego zabezpieczenia Twoich interesów podatkowych
   button:
     enable: true
-    label: Get started for free
-    link: "#"
-call_to_action:
-  enable: true
-  title: Need a larger plan?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
-  button:
-    enable: true
-    label: Contact Us
-    link: contact
-
+    label: Skontaktuj się
+    link: "contact"
 ---
