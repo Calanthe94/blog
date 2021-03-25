@@ -5,6 +5,9 @@ url = ""
 [[footer_right]]
 name = "Aktualności"
 url = "https://podatekodkrypto.pl/blog/"
+[[footer_right]]
+name = "Kontakt"
+url = "https://podatekodkrypto.pl/contact/"
 [[main]]
 name = "Aktualności"
 url = "blog"
