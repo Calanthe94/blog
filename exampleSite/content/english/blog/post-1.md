@@ -1,7 +1,7 @@
 ---
 title: Program do zarządzania koparkami, a 5% podatek dochodowy
-date: 2021-03-23T23:00:00+00:00
-image: "/images/5procent.PNG"
+date: 2021-03-23T23:00:00.000+00:00
+image: "/images/5procent2.PNG"
 type: featured
 description: This is meta description
 
