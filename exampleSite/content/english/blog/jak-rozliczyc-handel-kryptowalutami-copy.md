@@ -1,7 +1,6 @@
 +++
 date = 2021-03-28T04:07:21Z
 description = "This is meta description"
-draft = true
 image = "/images/pcc.PNG"
 title = "Waluty wirtualne – a co z PCC?"
 type = "regular"
