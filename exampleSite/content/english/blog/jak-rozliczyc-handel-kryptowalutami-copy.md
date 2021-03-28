@@ -1,46 +1,26 @@
 +++
-date = 2021-03-23T05:07:21Z
+date = 2021-03-28T04:07:21Z
 description = "This is meta description"
 draft = true
-image = "/images/e-pity2.PNG"
-title = "Jak rozliczyć handel kryptowalutami?-(copy)"
+image = "/images/pcc.PNG"
+title = "Waluty wirtualne – a co z PCC?"
 type = "regular"
 
 +++
-#### 
+### Waluty wirtualne – a co z PCC?
 
-Czytając poniższy artykuł dowiesz się jak rozliczyć transakcje kryptowalutami na gruncie ustawy o PIT.
+Zgodnie z ustawą o podatku od czynności cywilnoprawnych opodatkowaniu podlegają m.in. umowy sprzedaży oraz zamiany rzeczy i praw majątkowych. Podstawę opodatkowania stanowi wartość rynkowa rzeczy lub prawa majątkowego, a stawka podatku wynosi 1%.
 
-### Co podlega rozliczeniu?
+Z uwagi na specyfikę handlu walutami wirtualnymi, która często polega na ciągłym ich obracaniu w ramach zakupu, sprzedaży i wymiany, opodatkowanie każdej transakcji umowy sprzedaży lub zamiany waluty wirtualnej mogłoby doprowadzić do obowiązku zapłaty podatku, który przewyższałby zainwestowane przez podatnika środki pieniężne.
 
-Każda osoba fizyczna, która w 2020 roku osiągnęła dochód z tytułu transakcji na kryptowalutach zobowiązana jest do zapłaty podatku dochodowego.
+Mając na uwadze powyższe z dniem 13 lipca 2018 r. zostało wprowadzone Rozporządzenie Ministra Finansów w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej.
 
-Dochód jest to nadwyżka przychodu nad kosztami jego uzyskania. Przychód ze sprzedaży krytpwotaluty można uzyskać zarówno poprzez jej sprzedaż za środki pieniężne lub ich wymianę za towar i usługę (nie jest brana pod uwagę wymiana krypto za krypto). Z kolei kosztem są wydatki związane z zakupem tych kryptowalut.
+Zgodnie z powyższym rozporządzeniem zaniechano poboru podatku od czynności cywilnoprawnych od podatników nabywających w drodze umowy sprzedaży lub zamiany walutę wirtualną. Zaniechanie poboru podatku miało zastosowanie do umów sprzedaży lub zamiany waluty wirtualnej dokonanych od dnia wejścia w życie rozporządzenia do dnia 30 czerwca 2020 r.
 
-Jeżeli przychód jest wyższy niż koszt to mamy dochód i należy zapłacić od tego podatek dochodowy.
+Należy podkreślić, że transakcje zakupu lub zamiany walut wirtualnych dokonane po 30 czerwca 2019 r. również nie będą związane z obowiązkiem zapłaty podatku od czynności cywilnoprawnych.
 
-W przypadkach, w których koszty przewyższają osiągnięte przychodu (strata) nie powstaje konieczność zapłaty podatku dochodowego. 
+W ramach tzw. tarczy antykryzysowej 2.0 ustawodawca w art. 9 pkt. 1a ustawy o podatku od czynności cywilnoprawnych na stale wprowadził zasadę, zgodnie z którą sprzedaż i zamiana walut wirtualnych będzie zwolniona z opodatkowania podatkiem od czynności cywilnoprawnych. Przepis ma zastosowanie dla transakcji dokonanych od 1 lipca 2020 r.
 
-### Gdzie należy złościć transakcje z kryptowalutami i na jakim formularzu?
+Oznacza to, że transakcje sprzedaży oraz zamiany walut wirtualnych są zwolnione z tzw. podatku PCC.
 
-Deklaracje podatkową z handlu kryptowalutami należy przekazać (co do zasady) do urzędu skarbowego właściwego ze względu na miejsce zamieszkania - czyli tego samego do którego składa się PIT z umowy o pracę.
-
-Formularz na jakim należy zgłosić transakcje to PIT-38. Formularz znajdą Państwo na stronie[https://www.e-pity.pl/pit-online](https://www.e-pity.pl/pit-online "https://www.e-pity.pl/pit-online"). Po podaniu podstawowych informacji należy wpisać kwotę przychodów,  kosztów oraz kosztów z lat ubiegłych, które wcześniej nie zostały rozliczone.
-
-Przykład:
-
-Maciek pierwszy raz w 2019 roku kupił kryptowaluty za 20 000 zł i nic więcej z nimi nie robił. Zgodnie z obowiązkiem Maciek wykazał koszty (20 000zł) w PIT-38 za rok 2019. W 2020 roku Maciek kupił kryptowaluty za 40 000 zł, a następnie sprzedał wszystko za 100 000 zł.
-
-Maciej wykaże w deklaracji PIT-38:
-
-Przychód - 100 000 zł  
-Koszt - 40 000 zł  
-Koszty wcześniej nie potrącone - 20 000 zł
-
-### Termin
-
-Termin złożenia deklaracji oraz zapłaty podatku za rok 2020 mija 30. kwietnia.
-
-### Ważne
-
-Należy pamiętać, że jeżeli nie osiągnąłeś dochodu w 2020 roku, nie jesteś zobowiązany do zapłaty podatku dochodowego, ale musisz wysłać deklaracje do urzędu skarbowego z tytułu transakcji kryptowalutowej.
+W razie problemów podatkowych związanych z rozliczeniem walut wirtualnych zapraszamy do kontaktu!
