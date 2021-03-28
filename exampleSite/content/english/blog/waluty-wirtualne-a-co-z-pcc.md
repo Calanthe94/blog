@@ -1,7 +1,6 @@
 +++
 date = 2021-03-27T23:00:00Z
 description = ""
-draft = true
 image = "/images/pcc.PNG"
 title = "Waluty wirtualne – a co z PCC?"
 type = ""
