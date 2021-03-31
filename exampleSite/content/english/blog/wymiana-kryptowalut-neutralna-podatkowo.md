@@ -1,7 +1,6 @@
 +++
 date = 2021-03-30T22:00:00Z
 description = ""
-draft = true
 image = "/images/wymiana.PNG"
 title = "Wymiana kryptowalut neutralna podatkowo"
 type = "regular"
