@@ -1,7 +1,6 @@
 +++
 date = 2021-04-06T22:00:00Z
 description = ""
-draft = true
 image = "/images/vat-obraz.PNG"
 title = "Czy sprzedaż walut wirtualnych podlega opodatkowaniu VAT?"
 type = ""
