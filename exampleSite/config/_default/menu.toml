@@ -4,19 +4,19 @@ name = ""
 url = ""
 [[footer_right]]
 name = "Aktualności"
-url = "https://podatekodkrypto.pl/blog/"
+url = "https://podatekodkrypto.pl/aktualnosci/"
 [[footer_right]]
 name = "Kontakt"
-url = "https://podatekodkrypto.pl/contact/"
+url = "https://podatekodkrypto.pl/kontakt/"
 [[main]]
 name = "Aktualności"
-url = "blog"
+url = "aktualnosci"
 weight = 1
 [[main]]
 name = "Cennik"
-url = "pricing"
+url = "cennik"
 weight = 2
 [[main]]
 name = "Kontakt"
-url = "contact"
+url = "kontakt"
 weight = 3

@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: Napisz do nas
-    link: contact
+    link: kontakt
 feature:
   enable: true
   title: Analizujemy transakcje kryptowalutowe pod kątem
@@ -36,7 +36,7 @@ service:
     button:
       enable: true
       label: Sprawdź aktualności
-      link: "blog"
+      link: "aktualnosci"
   - title: Uzyskaj podatkową interpretację indywidualną
     images:
     - images/service-1.png
@@ -58,5 +58,5 @@ service:
   button:
     enable: true
     label: Skontaktuj się
-    link: contact
+    link: kontakt
 ---
