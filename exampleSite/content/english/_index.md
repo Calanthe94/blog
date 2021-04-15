@@ -36,7 +36,7 @@ service:
     button:
       enable: true
       label: Sprawdź aktualności
-      link: "#"
+      link: "blog"
   - title: Uzyskaj podatkową interpretację indywidualną
     images:
     - images/service-1.png
