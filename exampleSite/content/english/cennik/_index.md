@@ -10,7 +10,7 @@ basic:
   button:
     enable: true
     label: Skontaktuj się
-    link: "contact"
+    link: "kontakt"
 professional:
   name: Bieżące doradctwo podatkowe
   price: "200PLN"
@@ -28,7 +28,7 @@ professional:
   button:
     enable: true
     label: Skontaktuj się
-    link: "contact"
+    link: "kontakt"
 business:
   name: Wniosek o interpretacje indywidualną
   info: Wycena indywidualna
@@ -37,5 +37,5 @@ business:
   button:
     enable: true
     label: Skontaktuj się
-    link: "contact"
+    link: "kontakt"
 ---

@@ -15,13 +15,13 @@ sections:
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
+  path: exampleSite/content/english/aktualnosci/_index.md
   label: Blog Page (en)
 - type: document
   path: exampleSite/content/deutsch/blog/_index.md
   label: Blog Page (de)
 - type: directory
-  path: exampleSite/content/english/blog
+  path: exampleSite/content/english/aktualnosci
   label: Blog Post (en)
   create: documents
   match: "**/*"
@@ -39,13 +39,13 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/english/contact/_index.md
+  path: exampleSite/content/english/kontakt/_index.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/deutsch/contact/_index.md
+  path: exampleSite/content/deutsch/kontakt/_index.md
   label: Contact (de)
 - type: document
-  path: exampleSite/content/english/pricing/_index.md
+  path: exampleSite/content/english/cennik/_index.md
   label: Pricing (en)
 - type: document
   path: exampleSite/content/deutsch/pricing/_index.md
