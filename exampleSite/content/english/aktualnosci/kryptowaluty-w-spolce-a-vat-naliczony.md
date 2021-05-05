@@ -1,7 +1,6 @@
 +++
 date = 2021-05-04T22:00:00Z
 description = "VAT naliczony przy kryptowalucie w firmie"
-draft = true
 image = "/images/proporcja.PNG"
 title = "Kryptowaluty w Spółce a VAT naliczony"
 type = "featured"
