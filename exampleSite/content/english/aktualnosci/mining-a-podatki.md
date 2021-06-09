@@ -1,7 +1,6 @@
 +++
 date = 2021-06-08T22:00:00Z
 description = "Podatek od miningu"
-draft = true
 image = "/images/mining.PNG"
 title = "Mining a podatki"
 type = "featured"
