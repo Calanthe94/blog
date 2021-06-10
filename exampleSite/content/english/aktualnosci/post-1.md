@@ -8,11 +8,11 @@ description: This is meta description
 ---
 ### Zdajesz sobie sprawę, że możesz płacić mniejszy podatek dochodowy?
 
-W tym artykule dowiesz się jaką furtkę na niższe opodatkowanie stworzył ustawodawca oraz jak się do tego zabrać. 
+W tym artykule dowiesz się jaką furtkę na niższe opodatkowanie stworzył ustawodawca oraz jak się do tego zabrać.
 
 ### Czym jest IP BOX?
 
-IP BOX jest to preferencja podatkowa pozwalająca płacić 5% podatek dochodowy zarówno osobą fizycznym jak i prawnym.
+IP BOX jest to preferencja podatkowa pozwalająca płacić 5% podatek dochodowy zarówno osobom fizycznym jak i prawnym.
 
 Dochód, który może być objęty takim podatkiem jest dosyć jasno określony i podchodzi z m.in.:  
 \- opłat lub należności wynikających z umowy licencyjnej, która dotyczy kwalifikowanego prawa własności intelektualnej;  
@@ -34,8 +34,6 @@ Organ podatkowy przychylił się do zdania podatnika, że jak najbardziej jest t
 2. Ustal wysokość dochodu z kwalifikowanego prawa własności intelektualnej
 3. Oblicz kwalifikowany dochód z praw własności intelektualnej, który jest wyrażony jako iloczyn pkt 2. i wskaźnika nexus*.
 4. Prowadź ewidencje księgową w zakresie IP BOX
-
-    
 
 \*Wskaźnik nexus
 
