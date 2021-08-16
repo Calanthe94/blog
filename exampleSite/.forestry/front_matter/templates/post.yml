@@ -20,6 +20,7 @@ fields:
   label: meta description
 pages:
 - exampleSite/content/english/aktualnosci/czy-sprzedaz-walut-wirtualnych-podlega-opodatkowaniu-vat.md
+- exampleSite/content/english/aktualnosci/darowizna-kryptowalut-rodzinie.md
 - exampleSite/content/english/aktualnosci/kryptowaluty-w-spolce-a-vat-naliczony.md
 - exampleSite/content/english/aktualnosci/mining-a-podatki.md
 - exampleSite/content/english/aktualnosci/waluty-wirtualne-a-co-z-pcc.md
