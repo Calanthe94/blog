@@ -1,7 +1,6 @@
 +++
 date = 2021-08-15T22:00:00Z
 description = "Darowizny walut wirtualnych"
-draft = true
 image = "/images/darowizna.PNG"
 title = "Darowizna kryptowalut rodzinie"
 type = "regular"
