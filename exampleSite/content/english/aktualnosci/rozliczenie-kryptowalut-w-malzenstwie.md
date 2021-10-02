@@ -1,7 +1,6 @@
 +++
 date = 2021-10-01T22:00:00Z
 description = "Małżeństwo i waluty wirtualne"
-draft = true
 image = "/images/malzenstwo.PNG"
 title = "Rozliczenie kryptowalut w małżeństwie"
 type = "featured"
